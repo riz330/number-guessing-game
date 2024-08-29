@@ -15,4 +15,4 @@ This is a simple Python game where the player tries to guess a randomly generate
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git - https://github.com/riz330/number-guessing-game.git
